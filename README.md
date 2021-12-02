@@ -9,3 +9,7 @@ Como sabemos el patron de dise;o builder nos permite la construccion de objetos 
 ### Patron Decorator:
 
 podemos leer en el documento que se crearan y se podran dispositivos adicionales a cualquier vehiculo, debido a esto, podriamos tener un sin numero de combinaciones de clases que hereden de vehiculo, cada una con una combinacion de implementos diferente, pero el patron Decorator presenta una solucion a esto, debido a que este patron permite a;adir funcionalidades a traves de envoltorios, flexibilizando la implementacion de los diferentes dispositivos en los vehiculos y ampliando asi las funciones de estos sin la necesidad de una cantidad excesiva de herencias
+
+
+## Diagrama de Clase: 
+![image](https://user-images.githubusercontent.com/74844225/144483049-baa250e4-0f9f-4e0a-abaa-49995509cfca.png)
